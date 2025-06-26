@@ -1,0 +1,26 @@
+# Core
+pandas>=1.5
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+
+# ML & Preprocessing
+scikit-learn>=1.2
+xgboost>=1.7
+optuna>=3.1
+
+# Deep Learning (LSTM, TensorFlow backend)
+tensorflow>=2.12
+
+# Notebook utilities
+jupyterlab
+notebook
+ipython
+
+# Dimensionality Reduction (PCA/UMAP optional)
+umap-learn>=0.5
+
+# Optional:
+# pip install ta  # για technical indicators αν χρησιμοποιηθεί ξανά
