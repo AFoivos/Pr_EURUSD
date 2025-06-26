@@ -1,0 +1,34 @@
+{
+    "C10": [
+        "bb_bandwidth",
+        "rsi",
+        "stoch_k"
+    ],
+    "C11": [
+        "macd_diff",
+        "rsi",
+        "atr"
+    ],
+    "C12": [
+        "stoch_k",
+        "rsi",
+        "<TICKVOL>"
+    ],
+    "C13": [
+        "macd_diff",
+        "ema_50",
+        "bb_bandwidth"
+    ],
+    "C14": [
+        "bb_upper",
+        "rsi"
+    ],
+    "C15": [
+        "bb_lower",
+        "rsi"
+    ],
+    "C16": [
+        "macd",
+        "macd_signal"
+    ]
+}

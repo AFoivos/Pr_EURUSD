@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda/venv environments
+env/
+venv/
+.dvenv/
+.dpenv/
+.conda/
+*.env
+*.DS_Store
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.db
+*.sqlite
+*.parquet
+
+# Model files & results
+*.h5
+*.pt
+*.pkl
+*.joblib
+*.sav
+*.npz
+*.npy
+
+# Optuna studies / trials
+optuna_trials/
+optuna_logs/
+optuna_checkpoints/
+
+# Output folders
+__output__/
+output/
+outputs/
+logs/
+plots/
+figures/
+
+# System
+Thumbs.db
+ehthumbs.db
+Desktop.ini
